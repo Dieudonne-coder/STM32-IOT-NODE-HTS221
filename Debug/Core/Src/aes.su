@@ -1,0 +1,15 @@
+aes.c:171:16:getSBoxValue	16	static
+aes.c:176:16:getSBoxInvert	16	static
+aes.c:182:13:KeyExpansion	24	static
+aes.c:255:13:AddRoundKey	24	static
+aes.c:269:13:SubBytes	32	static
+aes.c:284:13:ShiftRows	16	static
+aes.c:312:16:xtime	16	static
+aes.c:318:13:MixColumns	16	static
+aes.c:356:13:InvMixColumns	24	static
+aes.c:377:13:InvSubBytes	32	static
+aes.c:389:13:InvShiftRows	16	static
+aes.c:419:13:Cipher	16	static
+aes.c:444:13:InvCipher	16	static
+aes.c:476:6:AES_ECB_encrypt	24	static
+aes.c:489:6:AES_ECB_decrypt	24	static
